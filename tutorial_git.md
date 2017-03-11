@@ -29,5 +29,4 @@ git push origin master					//Envia os ficheiros para o master
 
 ## Durante todos os passos podemos ir fazendo os seguintes comandos para ir validando o estado das áreas e os proximos passos
 git diff
-
 git status
