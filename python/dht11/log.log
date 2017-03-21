@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "pi-dht11-i2clcd.py", line 116, in <module>
-    lcd_byte(0x01, LCD_CMD)
-  File "pi-dht11-i2clcd.py", line 63, in lcd_byte
-    bus.write_byte(I2C_ADDR, bits_high)
-IOError: [Errno 5] Input/output error
